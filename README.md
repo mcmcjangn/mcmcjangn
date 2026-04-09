@@ -77,26 +77,6 @@ Working on a spline-based aircraft movement system with smooth arc-length parame
 
 `UE5` `Blender` `Blueprint` `C++` `game client`
 
----
-
-## `$ cat current_work.cpp`
-
-```cpp
-// Aircraft spline movement — arc-length parameterized
-// Airbus A310 mesh · UE5 Blueprint implementation
-
-void AircraftMovement::Tick(float DeltaTime) {
-    float    T   = SampleArcLength(Spline, Progress);
-    FVector  Pos = Spline->GetLocationAtTime(T, ESplineCoordinateSpace::World);
-    FRotator Rot = UKismetMathLibrary::FindLookAtRotation(Pos, NextPos);
-
-    Aircraft->SetActorRotation(
-        FMath::RInterpTo(CurrentRot, Rot, DeltaTime, 4.5f)
-    ); // zero jitter · smooth zone transitions ✓
-}
-```
-
----
 
 ## `$ ls tech/`
 
