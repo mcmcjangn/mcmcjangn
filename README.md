@@ -36,7 +36,7 @@ goal      : Land a game dev role overseas someday
 
 ```
 2023.03 – 2024.03  ●  President @ ICON (university dev club)
-2024.03 – 2024.06  ●  Built a game from scratch using C++
+2024.03 – 2024.06  ●  Built a game from scratch using C++ · Visual Studio
 2024               ●  UMC 6th — Server Development track
 2025 – present     ●  Studying Unreal Engine 5 (ongoing)
 ```
@@ -52,10 +52,10 @@ Organized study sessions, managed members, and set the direction for team projec
 
 ### 🟠 2024.03 – 2024.06 &nbsp;·&nbsp; Game Development in C++
 
-Designed and implemented a game from the ground up using C++.  
+Designed and implemented a game from the ground up using C++ in Visual Studio.  
 Covered core systems: game loop, collision detection, state management, and input handling.
 
-`C++` `game dev` `systems programming`
+`C++` `Visual Studio` `game dev` `systems programming`
 
 ---
 
@@ -100,15 +100,21 @@ void AircraftMovement::Tick(float DeltaTime) {
 
 ## `$ ls tech/`
 
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 **Game Dev**
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 
 **Backend / Server**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
@@ -116,6 +122,7 @@ void AircraftMovement::Tick(float DeltaTime) {
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ---
 
