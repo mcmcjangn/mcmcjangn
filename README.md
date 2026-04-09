@@ -6,20 +6,7 @@
                   
   ## 🛠 Tech Stack
 
-  ![Node.js](https://img.shields.io/badge/Node.js-339933
-  ?style=flat&logo=nodedotjs&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-
-  F7DF1E?style=flat&logo=javascript&logoColor=black)    
-  ![WebSocket](https://img.shields.io/badge/WebSocket-01
-  0101?style=flat&logo=socketdotio&logoColor=white)     
-  ![Java](https://img.shields.io/badge/Java-007396?style
-  =flat&logo=java&logoColor=white)                      
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boo
-  t-6DB33F?style=flat&logo=springboot&logoColor=white)  
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?sty
-  le=flat&logo=redis&logoColor=white)                   
-  ![Git](https://img.shields.io/badge/Git-F05032?style=f
-  lat&logo=git&logoColor=white)                         
+                   
                   
   ## 🚀 Projects                                        
    
