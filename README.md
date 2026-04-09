@@ -16,14 +16,5 @@
   -chat-server) | Real-time multiplayer chat server |   
   Node.js, WebSocket |
                                                         
-  ## 📊 GitHub Stats
-
-  ![Minchae's GitHub                                    
-  Stats](https://github-readme-stats.vercel.app/api?user
-  name=mcmcjangn&show_icons=true&theme=default)         
-                  
-  ## 📫 Contact
-
-  - Email: jmc@catholic.ac.kr
-  - LinkedIn: [Minchae Jang](https://www.linkedin.com/in
-  /jang-minchae-56447b3b9/)            
+          
+      
